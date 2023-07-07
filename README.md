@@ -1,12 +1,12 @@
 # DRF payments
 
 <p align="center">
-  <a href="https://dufran.github.io/drf-payments/"><img src="https://img.shields.io/badge/doc-mkdocs-02a6f2?style=flat-square&logo=read-the-docs" alt="Documentation"></a>
-  <a href="https://github.com/Dufran/drf-payments/actions/workflows/tests.yml" ><img src="https://github.com/Dufran/drf-payments/actions/workflows/tests.yml/badge.svg?branch=main" alt="Tests"/></a>
+  <a href="https://coaxsoft.github.io/drf-payments/"><img src="https://img.shields.io/badge/doc-mkdocs-02a6f2?style=flat-square&logo=read-the-docs" alt="Documentation"></a>
+  <a href="https://github.com/coaxsoft/drf-payments/actions/workflows/tests.yml" ><img src="https://github.com/coaxsoft/drf-payments/actions/workflows/tests.yml/badge.svg?branch=main" alt="Tests"/></a>
 <img alt="PyPI" src="https://img.shields.io/pypi/v/drf-payments">
 <a><img src="https://img.shields.io/pypi/pyversions/drf-payments"/></a>
 <a><img src="https://img.shields.io/pypi/frameworkversions/django/drf-payments"/></a>
-<img alt="GitHub tag (latest SemVer pre-release)" src="https://img.shields.io/github/v/tag/dufran/drf-payments">
+<img alt="GitHub tag (latest SemVer pre-release)" src="https://img.shields.io/github/v/tag/coaxsoft/drf-payments">
 </p>
 
 Package to handle various payments provider inside your drf project
@@ -126,4 +126,4 @@ urlpatterns = [*router.urls]
 
 For more info please check `example` app inside repository
 
-For even more detail check [documentation](https://dufran.github.io/drf-payments/)
+For even more detail check [documentation](https://coaxsoft.github.io/drf-payments/)
